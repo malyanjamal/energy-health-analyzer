@@ -1,3 +1,7 @@
+## Note
+This repository contains the dashboard and cleaned dataset only.
+The full data pipeline is maintained in a private repository.
+
 # Energy Poverty & Health Outcomes Analyzer
 
 Analyzes how electricity access correlates with child mortality, 
