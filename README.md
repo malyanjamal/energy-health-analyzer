@@ -12,8 +12,8 @@ life expectancy, and maternal mortality across 100+ countries (2000–2023).
 
 ## Tech Stack
 - Python, Pandas, NumPy
-- World Bank API (wbgapi)
-- Two-way Fixed Effects Panel Regression (linearmodels)
+- World Bank API
+- Two-way Fixed Effects Panel Regression
 - Plotly Express — choropleth maps & animated scatter
 - Streamlit — interactive dashboard
 - Deployed on Hugging Face Spaces
